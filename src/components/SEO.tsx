@@ -14,7 +14,7 @@ const SEO: React.FC<SEOProps> = ({
   image = 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800',
   type = 'website'
 }) => {
-  const siteTitle = 'Wanderlust - Discover Your Next Adventure';
+  const siteTitle = 'TravellHack';
 
   return (
     <Helmet>
